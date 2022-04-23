@@ -15,7 +15,9 @@ body
 	    .box1 h3,.box2 h3,.box3 h3{ font-size: 29px; }
 	     @media screen and (max-width:811px){ .flex-container{ flex-direction: column; }
 	      .box1,.box2,.box3{ width: 80%; margin-bottom: 20px; } }
-@media screen and (max-width:460px){ 
+@media screen and (max-width:412px){ 
 	
-	      .links{ word-spacing:5px; } 
+	      .links{ word-spacing:5px;
+	       font-size:14px;}
+	.abtus{font-size:14px;}
 }
